@@ -37,7 +37,7 @@ if (isset($_SESSION['id'])) {
                     <div class="col-xs-2">
                         <!-- Nav tabs -->
                         <ul class="nav nav-pills nav-stacked" role="tablist">
-                            Imágenes
+                            <a href="../Imagenes/crear.php"><button type="button" class="btn btn-primary">Subir Imágenes</button></a>
                         </ul>
                     </div>
                     <div class="col-xs-10">
